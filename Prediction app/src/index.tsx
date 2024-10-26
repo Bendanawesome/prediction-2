@@ -1,0 +1,1 @@
+import '@ionic/react/css/palettes/dark.system.css';
